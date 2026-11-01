@@ -21,11 +21,29 @@
 
 ---
 
-### About me
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <h3>About me</h3>
+      <p>I build for the web and mobile, from user interfaces to backend services. I’m also interested in cybersecurity and the practical work of creating safer software.</p>
+      <p>I work across a broad set of languages and tools, and keep learning through building.</p>
+    </td>
+    <td width="38%" valign="top">
+      <h3>At a glance</h3>
+      <p><strong>Based in</strong><br>Ethiopia</p>
+      <p><strong>Focus</strong><br>Web · Mobile · Security</p>
+      <p><strong>Open to</strong><br>Learning, building, and collaboration</p>
+    </td>
+  </tr>
+</table>
 
-- I build for the web and mobile, from user interfaces to backend services.
-- I’m interested in cybersecurity and the practical work of creating safer software.
-- I work with a broad set of languages and tools, and keep learning through building.
+### How I approach a build
+
+<p>A simple loop keeps the work thoughtful: understand the problem, build with care, check the details, and improve what comes next.</p>
+
+<p align="center">
+  <img src="build-loop.svg" width="100%" alt="A four-step build loop: understand, build, secure, and refine">
+</p>
 
 ### Skills & tools
 
@@ -56,13 +74,41 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
+### Featured projects
+
+<p>A few original projects where software engineering meets security and developer tooling.</p>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/buka-pitch/AR-Hero">AR-Hero ↗</a></h3>
+      <p>A cross-platform, single-binary active-response toolkit for Wazuh XDR, written in Rust with zero runtime dependencies.</p>
+      <p><img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=white" alt="Rust"></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/buka-pitch/aura_sec_cli">aura_sec_cli ↗</a></h3>
+      <p>A CLI focused on contribution security and policy enforcement.</p>
+      <p><img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=white" alt="Rust"></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/buka-pitch/gogit">gogit ↗</a></h3>
+      <p>A custom Git command-line tool with an AI helper.</p>
+      <p><img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=white" alt="Rust"></p>
+    </td>
+  </tr>
+</table>
+
 ### GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buka-pitch&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics for buka-pitch" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buka-pitch&layout=compact&hide_border=true&theme=transparent" alt="Most used languages on GitHub" height="165">
+  <img src="profile/stats.svg" alt="GitHub statistics for buka-pitch" height="165">
+  <img src="profile/top-langs.svg" alt="Most used languages on GitHub" height="165">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=buka-pitch&style=flat&color=64748b" alt="Profile views">
+<p>
+  <a href="https://github.com/buka-pitch?tab=repositories"><img src="https://img.shields.io/github/stars/buka-pitch?affiliations=OWNER&label=Stars%20on%20my%20repos&logo=github&style=flat-square" alt="Stars on repositories owned by buka-pitch"></a>
+  <a href="https://github.com/buka-pitch?tab=followers"><img src="https://img.shields.io/github/followers/buka-pitch?label=Followers&logo=github&style=flat-square" alt="GitHub followers"></a>
+  <a href="https://github.com/buka-pitch"><img src="https://komarev.com/ghpvc/?username=buka-pitch&style=flat-square&color=64748b&label=Profile%20views" alt="Profile views"></a>
 </p>
+
+<p>For current projects and contribution activity, visit my <a href="https://github.com/buka-pitch">GitHub profile</a>.</p>
