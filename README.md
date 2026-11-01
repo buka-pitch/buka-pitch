@@ -1,34 +1,68 @@
-
-<img src="header.svg" width="800" height="300">
-<div xmlns="http://www.w3.org/1999/xhtml">
-	<p align="center">
-<h1>					 I am a software Developer and cyber security enthusiastic Based in Ethiopia </h1> 
+<p align="center">
+  <img src="header.svg" alt="Biruk Yonas — software developer and cybersecurity enthusiast" width="100%">
 </p>
 
-## 🌐 Socials:
-<p>you can reach me on Telegram @Buka_pitch</p> 
+<h1 align="center">Hi, I'm Biruk Yonas 👋</h1>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Bukapitch) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Bukapitch) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Bukapitch) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/birukyonas) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Buka_pitch) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Bukapitch) 
-![](https://komarev.com/ghpvc/?username=buka-pitch)
+<p align="center">
+  Software developer · Cybersecurity enthusiast · Based in Ethiopia
+</p>
 
-# 💻 Tech Stack:
- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ! ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)    ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=buka-pitch&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=buka-pitch&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=buka-pitch&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  I enjoy building useful software across web and mobile, and exploring how to make digital products more secure.
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=buka-pitch&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <a href="https://linkedin.com/in/birukyonas"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/buka-pitch"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://t.me/Buka_pitch"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://codepen.io/Bukapitch"><img src="https://img.shields.io/badge/CodePen-Explore-000000?style=flat&logo=codepen&logoColor=white" alt="CodePen"></a>
+</p>
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Buka_pitch)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=buka-pitch&limit=5&theme=radical&combine_all_yearly_contributions=true)
+### About me
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+- I build for the web and mobile, from user interfaces to backend services.
+- I’m interested in cybersecurity and the practical work of creating safer software.
+- I work with a broad set of languages and tools, and keep learning through building.
 
+### Skills & tools
 
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+**Web & mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white)
+
+**Backend & infrastructure**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+
+### GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=buka-pitch&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics for buka-pitch" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buka-pitch&layout=compact&hide_border=true&theme=transparent" alt="Most used languages on GitHub" height="165">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=buka-pitch&style=flat&color=64748b" alt="Profile views">
+</p>
